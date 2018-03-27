@@ -4,3 +4,43 @@ h1 {
   font-weight: bold;
   color: white;
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
+
+.heading {
+  background-image: url('/Volumes/External HD/10_Web Dev. Projects/Broadway Design/Resources/IMAGES/the-flatiron-building.png');
+  text-align: center;
+  color: white;
+}
+
+.supporting {
+  text-align: center;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
